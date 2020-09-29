@@ -21,5 +21,6 @@ body {
 
 /* add the .bigItem class */
 .bigItem {
-  griid-area: 
+  grid-area: 2 / 2 / 4 / 4;
+  
 }
